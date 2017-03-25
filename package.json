@@ -1,0 +1,14 @@
+{
+	"name":         "vbb-mode-weights",
+	"description":  "Weights of modes of public transport in Berlin.",
+	"version":      "0.1.0",
+	"main":         "index.js",
+	"files":        ["index.js"],
+	"keywords":     ["vbb", "transport", "modes", "search"],
+	"author":       "Jannis R <mail@jannisr.de>",
+	"homepage":     "https://github.com/derhuerst/vbb-mode-weights",
+	"repository":   "derhuerst/vbb-mode-weights",
+	"bugs":         "https://github.com/derhuerst/vbb-mode-weights/issues",
+	"license":      "ISC",
+	"engines":      {"node": ">=6"}
+}
