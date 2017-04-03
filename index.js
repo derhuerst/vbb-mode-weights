@@ -1,14 +1,12 @@
 'use strict'
 
 const weights = {
-	  100:   1  // regional
-	, 102:   1  // regional
-	, 109:  .8  // suburban
-	, 400:  .7  // subway
-	, 700:  .25 // bus
-	, 3:    .25 // bus
-	, 900:  .35 // tram
-	, 1000: .6  // ferry
+	regional: 1, 100: 1, 102: 1,
+	suburban: .8, 109: .8,
+	subway: .7, 400: .7,
+	bus: .25, 700: .25, 3: .25,
+	tram: .35, 900: .35,
+	ferry: .6, 1000: .6
 }
 
 module.exports = weights

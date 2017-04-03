@@ -1,7 +1,7 @@
 {
 	"name":         "vbb-mode-weights",
 	"description":  "Weights of modes of public transport in Berlin.",
-	"version":      "0.1.0",
+	"version":      "0.2.0",
 	"main":         "index.js",
 	"files":        ["index.js"],
 	"keywords":     ["vbb", "transport", "modes", "search"],
